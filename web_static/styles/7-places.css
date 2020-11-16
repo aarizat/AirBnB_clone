@@ -7,7 +7,6 @@
 .places h1 {
   padding-left: 20px;
   font-size: 30px;
-  flex: 0 1 100%;
   width: 100%;
 }
 
@@ -24,4 +23,8 @@
 
 .places h2 {
   font-size: 30px;
+}
+
+footer {
+  position: relative;
 }
